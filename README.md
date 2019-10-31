@@ -4,8 +4,12 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 # Data Set
 <a href="https://www.kaggle.com/c/nfl-big-data-bowl-2020/data">train.csv</a>
 
-# Exploratory Data Analysis (EDA) & Pre-Processing
+# Exploratory Data Analysis (EDA) 
 <a href="https://github.com/erikw425/NFL_Big_Data_Bowl_Rushing/blob/master/NFL_Rushing.ipynb">NFL Big Data Bowl - Rushing.ipynb</a>
+
+# Pre-Processing & Regressions
+
+Coming soon...
 
 # Data Visualizations
 
