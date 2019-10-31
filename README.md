@@ -7,11 +7,11 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 # Exploratory Data Analysis (EDA) 
 <a href="https://github.com/erikw425/NFL_Big_Data_Bowl_Rushing/blob/master/NFL_Rushing.ipynb">NFL Big Data Bowl - Rushing.ipynb</a>
 
-# Pre-Processing & Regressions
+# Data Visualizations
 
 Coming soon...
 
-# Data Visualizations
+# Pre-Processing & Regressions
 
 Coming soon...
 
