@@ -22,7 +22,7 @@ Several features do not have a standardized input methodology which results in a
 <LI>GameWeather Examples: "N/A Indoor, N/A (Indoors), Controlled Climate, Indoors"
 </UL>
 
-These issues are particularly problematic in GameWeather, WindDirection, WindSpeed, StadiumType, Turf, and PlayerCollegeName. They are less problematic, but still present in Position, Stadium, and Location. After preliminary regression analysis mapping features (GameWeather, etc.), it was determined that high cardinality features have negliglbe impact. Based on time and code constraints I decided to fix features that seem to have only a few issues (ex: TeamAbbr: BLT, BAL) and drop features that have high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), etc).
+These issues are particularly problematic in GameWeather, WindDirection, WindSpeed, StadiumType, Turf, and PlayerCollegeName. They are less problematic, but still present in Position, Stadium, TeamAbbreviations, etc. After preliminary regression analysis mapping features (GameWeather, etc.), I determined that high cardinality features have negliglbe impact. Based on time and code constraints I decided to fix features that seem to have only a few issues (ex: TeamAbbr: BLT, BAL) and drop features that have high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), etc).
 
 # Data Visualizations
 
