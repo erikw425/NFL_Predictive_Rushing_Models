@@ -9,18 +9,28 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 
 # Pre-Processing
 
-Notes
-
--
+Several features do not have a standardized input methodology resulting in atypical values
+<OL>
+<LI>Main Heading
+<UL>
+<LI>List item 1
+<LI>List item 2
+</UL>
+<LI>Secondary Heading
+<UL>
+<LI>List item 1
+<LI>List item 2
+</UL>
+</OL>
 
 # Data Visualizations
 
 Coming soon...
 
-# Pre-Processing & Regressions
+# Regressions
 
 Coming soon...
 
-# Rushing Model
+# Predictive Rushing Model
 
 Coming soon...
