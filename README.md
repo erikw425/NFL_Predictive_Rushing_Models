@@ -9,7 +9,7 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 
 # Pre-Processing
 
-Several features do not have a standardized input methodology resulting in atypical values
+Several features do not have a standardized input methodology resulting in atypical values that require cleansing.
 <OL>
 <LI>Main Heading
 <UL>
