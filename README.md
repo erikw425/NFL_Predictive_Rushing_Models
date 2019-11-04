@@ -13,6 +13,10 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 # Exploratory Data Analysis (EDA) 
 <a href="https://github.com/erikw425/NFL_Big_Data_Bowl_Rushing/blob/master/NFL_Rushing_EDA.ipynb">NFL Big Data Bowl - Rushing EDA.ipynb</a>
 
+# EDA Visualizations
+
+Coming soon...
+
 # Data Cleansing
 
 Several features do not have a standardized input methodology which results in atypical values that require cleansing. The primary issues are typos, strings instead of numbers, and different explanations for the same feature.
