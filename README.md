@@ -33,7 +33,7 @@ Coming soon...
 
 # Regressions
 
-After preliminary regression analysis mapping features (GameWeather, etc.), I determined that high cardinality features have negliglbe impact. Based on time and code constraints I decided to fix features that seem to have only a few issues (ex: TeamAbbr: BLT, BAL) and drop features that have high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), etc).
+After preliminary regression analysis with mapping features (GameWeather -> Snow :1 Else :0, etc.), it was determined that many high cardinality features have negliglbe impact. Based on time and code constraints, some features were fixed and others were dropped. Fixed features only had a few issues (ex: TeamAbbr: BLT, BAL) and dropped features had high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), etc).
 
 Coming soon...
 
