@@ -33,7 +33,7 @@ Coming soon...
 
 # Regressions
 
-After preliminary regression analysis with mapping features (GameWeather -> Snow :1 Else :0, etc.), it was determined that many high cardinality features have negliglbe impact. Based on time and code constraints, some features were fixed and others were dropped. Fixed features only had a few issues (ex: TeamAbbr: BLT, BAL) and dropped features had high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), etc).
+After preliminary regression analysis with mapping features (GameWeather -> Snow :1 Else :0, etc.), it was determined that many high cardinality features have negliglbe impact. Based on time and code constraints, some features were fixed and others were dropped. Fixed features only had a few issues (ex: TeamAbbr: BLT, BAL) and dropped features had high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), Indoor, Indoors, etc).
 
 Coming soon...
 
