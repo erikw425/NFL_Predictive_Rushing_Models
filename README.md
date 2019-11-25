@@ -27,7 +27,26 @@ These issues are particularly problematic in GameWeather, WindDirection, WindSpe
 
 Based on time and code constraints, some features were fixed and others were dropped. Fixed features only had a few issues (ex: TeamAbbr: BLT, BAL) and dropped features had high cardinality (ex: GameWeather: N/A Indoor, N/A (Indoors), Indoor, Indoors, etc).
 
-Notebook coming soon...
+<a href="https://github.com/erikw425/NFL_Big_Data_Bowl_Rushing/blob/master/NFL_Rushing-PreProcessing-FeatureEngineering-DataVisualizations.ipynb	">NFL Big Data Bowl - Rushing PreProcessing, Feature Engineering, and Data Visualizations.ipynb</a>
+
+# Data Visualization Examples
+
+<img src="Yards.png"
+     alt="EZDist & Yards"
+     style="float: left; margin-right: 10px;" />
+
+<img src="OffenseFormation-Yards.png"
+     alt="EZDist & Yards"
+     style="float: left; margin-right: 10px;" />
+
+<img src="EZDist-Yards.png"
+     alt="EZDist & Yards"
+     style="float: left; margin-right: 10px;" />
+
+<img src="RusherPosition-Yards.png"
+     alt="EZDist & Yards"
+     style="float: left; margin-right: 10px;" />
+
 
 # Regressions
 
