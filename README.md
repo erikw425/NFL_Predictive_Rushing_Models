@@ -9,7 +9,7 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 
 # Data Set
 <a href="https://www.kaggle.com/c/nfl-big-data-bowl-2020/data">train.csv</a>
-
+ 
 # Exploratory Data Analysis (EDA) 
 
 Several features do not have a standardized input methodology which results in atypical values that require cleansing. The primary issues are typos, strings instead of numbers, and different explanations for the same feature.
