@@ -13,7 +13,7 @@ In the National Football League (NFL), roughly a third of teams’ offensive yar
 # Exploratory Data Analysis (EDA) 
 
 Several features do not have a standardized input methodology which results in atypical values that require cleansing. The primary issues are typos, strings instead of numbers, and different explanations for the same feature.
-
+ 
 <UL>
 <LI>WindSpeed Examples: "13, 13 MPH, E, 10-20, 15 gusts up to 25". 
 <LI>GameWeather Examples: "N/A Indoor, N/A (Indoors), Controlled Climate, Indoors"
